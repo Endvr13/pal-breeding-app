@@ -1,0 +1,1 @@
+for %%f in (*.png) do cwebp.exe -o "%%~nf.webp" "%%f
